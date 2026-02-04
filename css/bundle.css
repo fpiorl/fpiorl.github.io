@@ -1,3 +1,10 @@
+/* Transcript blocks (see layouts/_default/_markup/render-codeblock-transcript.html) */
+
+.rtwt-transcript {
+  white-space: pre-wrap;
+  word-break: break-word;
+  margin: 1rem 0;
+}
 /* commonly reused rules */
 
 .notransition { transition: none !important }
