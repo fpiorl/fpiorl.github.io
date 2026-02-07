@@ -6,8 +6,15 @@
     <description>Recent content on fpiorlblog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 15:33:12 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 15:25:29 +0100</lastBuildDate>
     <atom:link href="https://fpiorl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rant on Modern Software</title>
+      <link>https://fpiorl.github.io/posts/rant-on-modern-software/</link>
+      <pubDate>Sat, 07 Feb 2026 15:25:29 +0100</pubDate>
+      <guid>https://fpiorl.github.io/posts/rant-on-modern-software/</guid>
+      <description>&lt;h1 id=&#34;rant-on-not-so-modern-software&#34;&gt;Rant on (not so) modern software&lt;/h1&gt;&#xA;&lt;p&gt;Programming language abstractions failed miserably at being &amp;ldquo;simple&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Humans as well as AIs prefer file-oriented systems and &amp;ldquo;services&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;The very people behind UNIX knew this.&lt;/p&gt;&#xA;&lt;p&gt;One of the reasons that makes AI a &amp;ldquo;good&amp;rdquo;* coder is the fact&#xA;that AI uses the UNIX Shell (why no claude on cmd or powershell?).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Plan 9&lt;/strong&gt; is probably the best operative system for both the human and the machine.&#xA;You don&amp;rsquo;t believe me?&#xA;Just think about every major &amp;ldquo;good software&amp;rdquo; in the linux land:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Transcription of Plan 9, Not Dead, Just Resting, by Ori Bernstein</title>
       <link>https://fpiorl.github.io/posts/transcription-of-plan-9-not-dead-just-resting-by-ori-bernstein/</link>
